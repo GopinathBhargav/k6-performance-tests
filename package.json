@@ -1,0 +1,11 @@
+{
+  "name": "k6-performance-tests",
+  "version": "1.0.0",
+  "description": "Performance testing",
+  "main": "n",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gopinath",
+  "license": "ISC"
+}
